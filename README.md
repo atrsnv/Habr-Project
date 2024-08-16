@@ -1,2 +1,3 @@
 # Habr-Project
-In this project, I am conducting a comprehensive data analysis of posts published on Hubre. I use data processing, visualization, and statistical modeling techniques to explore various aspects of these posts, including their topics, popularity, temporal characteristics, and more.
+
+Хабр - популярная российская платформа для публикации технических и научных статей, привлекающая большое сообщество читателей и авторов. Понимание характеристик и паттернов, присущих постам на этой платформе, может быть полезно как для авторов, стремящихся улучшить охват своего контента, так и для самой платформы в плане оптимизации рекомендательных систем и пользовательского опыта.
